@@ -1,0 +1,16 @@
+# Private credentials
+secrets.h
+.env
+.env.*
+
+# Arduino build files
+*.bin
+*.elf
+build/
+
+# Website dependencies
+node_modules/
+
+# Windows and system files
+.DS_Store
+Thumbs.db
